@@ -1,10 +1,6 @@
 # Library-Management-System-in-Java
 Mini project completed as part of the OOPS with Java course in the 3rd year of my undergrad.
 
-# Library Management System in Java
-
-This is a simple Library Management System implemented in Java, incorporating object-oriented programming concepts. The system allows users to manage books, patrons, and transactions in a library.
-
 ## Project Structure
 
 - [Book.class](https://github.com/shrutin567/Library-Management-System-Java/blob/main/Book.java): Defines the `Book` class with properties and methods.
